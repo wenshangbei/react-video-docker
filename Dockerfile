@@ -3,4 +3,4 @@ RUN chmod -R 770 /root
 RUN chown :0 -R /root
 
 RUN chmod  770 /
-RUN chown :0 -R /
+RUN chown :0 /
